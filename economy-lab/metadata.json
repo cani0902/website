@@ -1,0 +1,6 @@
+{
+  "name": "ECONOMY LAB",
+  "description": "경제를 읽는 것이 아니라, 직접 움직여보세요. 금리, 수요, 공급과 정책을 직접 조절하며 경제 인과관계를 체험하는 인터랙티브 경제학 시뮬레이터.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
